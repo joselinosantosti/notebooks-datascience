@@ -1,4 +1,5 @@
 # Notebooks com Meus principais projetos de DataScience em Python Data Stack
+## Finalidade: Usar como Portfólio
 ## Tecnologias utilizadas: Python, Sckit-learn, Matplotlib, Seaborn, Urllib3, BeautifulSoup
 
 # Projeto 1 - Analisando dados de um Ecommerce
