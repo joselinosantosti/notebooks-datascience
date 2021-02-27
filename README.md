@@ -1,7 +1,8 @@
-# Notebooks com Meus principais projetos de DataScience em Python Data Stack
-## Tecnologias utilizadas: Python, Sckit-learn, Matplotlib, Seaborn, Urllib3, BeautifulSoup
+# Notebooks with my main projetcs from DataScience in Python Data Stack
+## Goal: Use as Portfolio
+## Used Technologies: Python, Sckit-learn, Matplotlib, Seaborn, Urllib3, BeautifulSoup
 
-# Projeto 1 - Analisando dados de um Ecommerce
+# Projetct 1 - Analisando dados de um Ecommerce
 ### Fonte dos Dados: ![UCI]()
 ### Objetivo: Responder diversas perguntas relacionadas aos principais KPIs de uma Loja virtual
 ### Descrição: 
